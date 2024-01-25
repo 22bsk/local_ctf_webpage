@@ -1,2 +1,2 @@
 # local_ctf_webpage
-Capture The Flag website created on internship in OCT-2023
+Capture the Flag website created during my internship in October 2023
