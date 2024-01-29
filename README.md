@@ -6,4 +6,4 @@ Capture the Flag website created during my internship in October 2023
   <li>Download the .zip file and extract.Copy the folder to htdocs in xampp folder of C drive.</li>
   <li>Open XAMPP and start Apache and MySQL.</li>
   <li>Open a browser and enter (http://localhost/phpmyadmin/)</li>
-
+  <li>Click on new-></li>
