@@ -7,3 +7,5 @@ Capture the Flag website created during my internship in October 2023
   <li>Open XAMPP and start Apache and MySQL.</li>
   <li>Open a browser and enter (http://localhost/phpmyadmin/)</li>
   <li>Click on new->create a database with the name same as folder copied in the htdocs in C drive.</li>
+  <li>Make folder name and database name same.Import the sql file present in the folder.</li>
+  
